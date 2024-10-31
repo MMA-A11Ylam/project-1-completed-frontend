@@ -6,10 +6,11 @@ import About from './pages/About'
 import Login from './pages/Login'
 import Doctors from './pages/Doctors'
 import MyAppoinments from './pages/MyAppoinments'
-import Myprofile from './pages/Myprofile'
+
 import Appointment from './pages/Appointment'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
+import Myprofile from './pages/MyProfile'
 
 const App = () => {
   return (
